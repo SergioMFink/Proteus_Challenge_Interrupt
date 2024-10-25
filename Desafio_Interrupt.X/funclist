@@ -1,0 +1,5 @@
+_ISR: CODE, 130 0 31
+_main: CODE, 21 0 109
+_setup: CODE, 187 0 14
+_delay_ms_variable: CODE, 161 0 26
+Total: 180
